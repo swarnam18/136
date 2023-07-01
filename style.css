@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+
+#start{
+    font-size:20px;
+    color:blue;
+}
+
+#status , #number_of_objects , #start{
+    font-size:18px;
+}
+
+.copy_right_footer{
+    font-family: 'Arizonia';
+    position:fixed;
+    font-size:40px;
+    color:black;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+}
+
+h1{
+    font-family: 'Bonbon';
+    font-size:40px; 
+}
+
+canvas{
+    border:2px solid blue;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px black;
+}
+ 
+button{
+    background-color: blue;
+    color:aqua;
+    font-size:20px;
+}
